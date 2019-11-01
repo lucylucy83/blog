@@ -12,6 +12,7 @@ tags:
 - Body Exfoliation
 - Exfoliation
 - Smooth Skin
+draft: true
 
 ---
 If you want to know how to use a body scrub, please keep reading. In this guide, you are going to learn how to exfoliate the body like a pro.
