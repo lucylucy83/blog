@@ -17,8 +17,7 @@ draft: true
 ---
 If you want to know how to use a body scrub, please keep reading. In this guide, you are going to learn how to exfoliate the body like a pro.
 
-We show you how to use a coffee scrub, sugar scrub, seasalt scrub and other types of body scrubs. We also share secrets used by high end spas that you can easily replicate at home.
-“OMG! Is that human skin?” is a typical reaction after following our process.
+We show you how to use a coffee scrub, sugar scrub, sea salt scrub and other types of body scrubs. We also share secrets used by high end spas that you can easily replicate at home. “OMG! Is that human skin?” is a typical reaction after following our process.
 
 The key to understanding how to use an exfoliating body scrub effectively is choosing the body scrub that is most appropriate for your needs. Before using a body scrub at home, it is imperative to prepare your skin appropriately. You must also apply a body scrub in a way that won’t damage your skin or cause adverse results. We cover all of this information and show you a quick method and a longer one.
 
