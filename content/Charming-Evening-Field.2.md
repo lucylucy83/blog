@@ -23,25 +23,29 @@ The key to understanding how to use an exfoliating body scrub effectively is cho
 
 <h2>How to apply a body scrub \[Luxury Spa Tips At Home\]
 
-![](../images/body-scrub/How-to-use-a-body-scrub2.png)
-
 > The key to using body scrub is preparing your skin. The main idea is to soften the surface of your skin so that the body scrub can achieve maximum sloughing of dead skin cells. Preparation can be done in a number of ways and depends on the amount of time you have and how much you want to fuss with it. We will give you a couple of options.
 
-<h3>Option 1: When you have a lot of time and a lot of products.
+![How to use a body scrub](../images/body-scrub/How-to-use-a-body-scrub2.png "How to prepare your skin for a body scrub")
 
-![](../images/body-scrub/How-to-use-a-body-scrub3.png)
+<h3> Option 1 - How to apply a body scrub when you have more time and want a spa experience at home
+
+This option should take around 30 minutes, but you can also adjust the time to suit your needs. 
+
+![How to apply a body scrub](../images/body-scrub/How-to-use-a-body-scrub3.png "How to apply a body scrub like a spa")
 
 Ideally, you would be able to steam your skin at a sauna. However, a sauna can be easily replicated at home by running the shower on a hot setting for about 5 minutes. Always point the hot water away from yourself. Depending on the size of your bathroom, it should start to fill up with steam fairly quickly. If you have a cabin shower, you can step inside and put the water on as hot as you can without burning yourself. Again, direct the water away from yourself and be very careful to avoid burns. Your skin should not get wet. It’s about steaming. Make sure the ventilation is off and that the main door and windows are shut.  If at any time you start to feel dizzy or unwell, immediately open the main door, windows, etc. to let the steam out. Always keep a bottle of cold water nearby and sip it while the steam is coming and during the steaming process.
 
-Once there is steam, sit there for a few minutes or until you feel the typical “I’ve had enough sauna” effect. Then, step into the bath/shower if you’ve been sitting outside of it. Rub Maroccan black soap all over your body. Maroccan black soap has been used for centuries to help remove dead skin cells, dirt, and pollution build up while keeping skin smooth and supple.  We love  Beldi Soap from Kahina Giving Beauty because of the intoxicating Neroli scent that's reminiscent of jasmine. It softens like no other and best of all, a portion of the profits go towards supporting programs that improve the lives of Berber women. This feels like a true luxury treat and you feel doubly good because you’ve helped someone else.
+Once there is steam, sit there for a few minutes or until you feel the typical “I’ve had enough sauna” effect. Then, step into the bath/shower if you’ve been sitting outside of it. Rub Moroccan black soap all over your body. Moroccan black soap has been used for centuries to help remove dead skin cells, dirt, and pollution build up while keeping skin smooth and supple.  We love  Beldi Soap from Kahina Giving Beauty because of the intoxicating Neroli scent that's reminiscent of jasmine. It softens like no other and best of all, a portion of the profits go towards supporting programs that improve the lives of Berber women. This feels like a true luxury treat and you feel doubly good because you’ve helped someone else.
 
-Rinse the Maroccan soap and dry your body. Step back into the shower and apply a body mask. (You can also skip to the next step if you prefer to save a bit of time.) We love 417 Body Wrap Dead Sea Catharsis Mask because our skin felt ultra smooth after using it. The brand also says that it helps with cellulite with longer term use. We definitely saw an improvement in the dimples on our thighs after using it once, but we cannot say whether this was as a result of the whole ritual or just the 417 body mask.
+Rinse the Moroccan soap and dry your body. Step back into the shower and apply a body mask. (You can also skip to the next step if you prefer to save a bit of time.) We love 417 Body Wrap Dead Sea Catharsis Mask because our skin felt ultra smooth after using it. The brand also says that it helps with cellulite with longer term use. We definitely saw an improvement in the dimples on our thighs after using it once, but we cannot say whether this was as a result of the whole ritual or just the 417 body mask.
 
 Finally, follow all steps from Option 2 (below). By the time you finish, you will feel like an absolute goddess!
 
-<h3>Option 2: When you have little time and want to use fewer products.
+<h3>Option 2: How to apply a body scrub when you have a few minutes
 
-![](../images/body-scrub/How-to-use-a-body-scrub4.png)
+This option is really the bare minimum that should be done for body scrub application. It should take 5-10 minutes. 
+
+![How to use a body scrub](../images/body-scrub/How-to-use-a-body-scrub4.png "How to apply a body scrub quickly")
 
 While standing in the shower/bath and BEFORE you turn on the water, run shower oil all over your skin. It is absolutely imperative that you do this before you get your skin wet because the oil will stick to your skin better and will have a fantastic softening effect.  Spread the oil generously and be sure to cover every part that you want exfoliated, especially tougher areas like your elbows and palms. If you are also exfoliating your feet, it is advisable to use a shower stool or to sit on the floor of your shower/bathtub. Be very careful not to slip - oil is slippery.  It is advisable to use a shower oil because they will rinse much easier when it’s time to wash everything off. We love Rituals Rose and Almond Oil. The scent is absolutely divine and our skin was softer than ever before. It also has the right balance of slipperiness and sticks to your skin well enough for the next step.
 
@@ -71,6 +75,6 @@ Body scrub ingredients such as coffee, sugar, salt or another type of scrub shou
 
 <h2>Conclusion
 
-We hope this post showed you how to use a body scrub effectively. Our aim is to share decades of skin care obsession with you. We don’t want to post a bunch of Photoshopped before/after photos and make you believe that we recommend miraculous cures. We do want to share with you logic and reasons for why what we recommend works.
+We hope this post showed you how to use a body scrub effectively. Our aim is to share decades of skin care obsession with you. We don’t want to post a bunch of Photo-shopped before/after photos and make you believe that we recommend miraculous cures. We do want to share with you logic and reasons for why what we recommend works.
 
 Do you have other skin care questions? Please let us know by commenting below! We’ll do our best to create a post to answer your questions.
