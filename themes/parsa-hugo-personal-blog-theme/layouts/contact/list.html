@@ -9,16 +9,13 @@
         {{ .Content }}
         <form action="{{ .Site.Params.contactFormAction }}" class="row mt-5">
           <div class="col-lg-6">
-            <input type="text" class="form-control mb-4" name="name" id="name" placeholder="Name">
-          </div>
-          <div class="col-lg-6">
-            <input type="email" class="form-control mb-4" name="email" id="email" placeholder="Email">
-          </div>
-          <div class="col-12">
-            <textarea name="message" id="message" class="form-control mb-4" placeholder="Message..."></textarea>
-          </div>
-          <div class="col-12">
-            <button class="btn btn-primary">Submit</button>
+            <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <script>
+                hbspt.forms.create({
+                    portalId: "6661861",
+                    formId: "35e6f9d9-8e23-4184-8f10-0c9e706dcf1a"
+                    });
+            </script>
           </div>
         </form>
       </div>
@@ -29,3 +26,5 @@
 {{partial "instafeed.html" . }}
 
 {{ end }}
+
+

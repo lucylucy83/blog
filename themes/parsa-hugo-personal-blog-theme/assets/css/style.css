@@ -39,39 +39,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-  font-size: 55px;
+  font-size: 32px;
 }
 
 @media (max-width: 767px) {
   h1, .h1 {
-    font-size: 55px;
+    font-size: 32px;
   }
 }
 
 h2, .h2 {
-  font-size: 50px;
+  font-size: 24px;
 }
 
 @media (max-width: 767px) {
   h2, .h2 {
-    font-size: 45px;
+    font-size: 24px;
   }
 }
 
 h3, .h3 {
-  font-size: 40px;
+  font-size: 18px;
 }
 
 h4, .h4 {
-  font-size: 30px;
+  font-size: 16px;
 }
 
 h5, .h5 {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 h6, .h6 {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 /* Button style */
@@ -275,8 +275,8 @@ a.text-dark:hover {
 }
 
 .section {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 15px;
 }
 
 .section-sm {
@@ -851,6 +851,10 @@ blockquote {
 
 .tag-list li a:hover {
   color: #ff6f00;
+}
+
+.post-header-image {
+    width: 100%
 }
 
 /*# sourceMappingURL=maps/style.css.map */

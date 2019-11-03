@@ -4,4 +4,12 @@ date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 image: "images/contact.jpg"
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+<h2>We want to hear from you! 
+
+<h3>Do you have a skin care question? 
+
+Send it to us! We will do our best to either create a blog post or answer you directly. Chance are that we have come across something similar and we'll be glad to share our insight with you. We also have an extensive network of beauticians and skin care gurus who will be more than happy to pitch in!
+
+<h3>Do you want to partner with us? 
+
+We work with select affiliate programs. Where we feel a product is particularly good and suitable to our reader's concerns, we may may choose to feature it in our blog. We are particularly interested in innovative, research based skin care solutions, teqniques and immerging brands. 
