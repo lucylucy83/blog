@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://competent-cori-e1d191.netlify.com"
 languageCode = "en-us"
 title = "Parsa | Personal Blog Template"
 theme = "parsa-hugo-personal-blog-theme"
@@ -72,7 +72,7 @@ author = "MySkinin"
 authorImage = "scincare-advice-experts"
 shortDescription = "We share decades of skin care obsession with you. We don’t post a bunch of Photoshopped before/after photos and make you believe that we recommend miraculous cures. We do share with you logic and reasons for why what we recommend works."
 # Contact Form Action
-contactFormAction = "#" 
+contactFormAction = "#"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
