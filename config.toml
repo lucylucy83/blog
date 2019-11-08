@@ -1,7 +1,7 @@
 baseURL = "https://competent-cori-e1d191.netlify.com"
 languageCode = "en-us"
-title = "Parsa | Personal Blog Template"
-theme = "parsa-hugo-personal-blog-theme"
+title = "MySkinin | Skincare Insights"
+theme = "myskinin-blog"
 summaryLength = "10"
 paginate = 6
 
