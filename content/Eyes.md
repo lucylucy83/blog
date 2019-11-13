@@ -1,14 +1,15 @@
 ---
-title: Organize Your Life With 10 Simple rule
+title: Dry Lips In Winter?
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: featured
 image: images/featured-post/Eyes.png
-categories:
-- Nature
+categories: []
 tags:
-- Fashion
-- Nature
+- Dry lips
+- chapped lips
+- winter lips
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
