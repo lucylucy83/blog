@@ -13,9 +13,9 @@ tags:
 ---
 A simple skincare routine will help tune up your complexion and also troubleshoot any areas you want to work on. A simple skincare routine will help you stick to your skincare goals and is exactly what you want because you will need time to see the effects of your efforts. Consistency is key and you need around 6 weeks to see a full impact. However, your skin should start showing positive signs after 2 weeks.
 
-Therefore, while it may be tempting and commendable to set an extensive overhaul of your skin care habits, we recommend that you start with a simple skincare routine. Also, to reduce the number of things your have to do in your routine, try to stick with multi-functioning products. For example: a moisturiser with suncreen and a tint, etc.
+Therefore, while it may be tempting and commendable to set an extensive overhaul of your skin care habits, we recommend that you start with a simple skincare routine. Also, to reduce the number of things your have to do in your routine, try to stick with multi-functioning products. For example: a moisturiser with sunscreen and a tint, etc.
 
-<h2>A basic facecare routine starts with cleansing
+<h2>A basic face care routine starts with cleansing
 
 If you do nothing else, cleanse. Even the most simple skincare routin must start with a cleanser and a bit of water. Cleansing wipes <a href="https://www.glamour.com/story/are-makeup-wipes-bad-for-your-skin">DO NOT replace this step</a> as they still leave traces make up and grime on your skin.
 
@@ -70,7 +70,7 @@ Moisturises hydrate, soften and prevent water loss. The optimal moisturiser depe
 <img class="full-width" src='/images/featured-post/serums-cremes.png' alt="basic skincare routine">
 </div>
 
-If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. OUR FAVOURITE IS.
+If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. Our favourites is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness. 
 
 <h3> Don't forget your eye cream
 
