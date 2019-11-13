@@ -5,10 +5,11 @@ description: This is meta description
 type: featured
 image: images/featured-post/Feet.png
 categories:
-- Article
+- Feet
 tags:
-- Photos
-- Article
+- Pedicure
+- DYI Pedicure
+- Foot Care
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
