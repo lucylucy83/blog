@@ -74,10 +74,14 @@ If you have the idea of using too many products, find a multi-function moisturis
 
 <h3> Don't forget your eye cream
 
-Eye creams are not an asbolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingeredients that offer solutions to your concerns is key.
+Eye creams are not an absolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingredients that offer solutions to your concerns is key.
 
 <div class="imgbox">
 <img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
 </div>
 
 Under eye bags and dark circles are the most common concerns. Wrinkles and droopiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
+
+Because the skin around the eye area is so delicate, we recommend that you avoid heavy products. You don't want anything pulling on or weighing down the already delicate and thinner tissue. 
+
+A good all-around, weightless option is[ Tatcha Luminous Deep Hydration Firming Eye Serum](https://amzn.to/34ZF6Hb "Tatcha Eye cream"). It's key ingredient - Okinawa red algae enhances the skin's barrier function, replenishes natural water reservoir and increases its moisture-retention capabilities. Honeysuckle leaf and caffeine sooth and act as anti-oxidants.  We saw visible firming, reduced puffiness, and plumping. 
