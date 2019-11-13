@@ -54,7 +54,7 @@ The answer to the first question is apply in order of consistency — from thinn
 * Vitamin C: brightens dull skin and decreases dark spots
 * Hyaluronic acid: seals in moisture and prevents moisture loss
 * Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging
-* Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne</li> </ul>
+* Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne
 
 Moisturises hydrate, soften and prevent water loss. The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 15 to save you the trouble of needing to apply sunscreen separately. Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum.
 
