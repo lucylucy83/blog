@@ -9,7 +9,6 @@ tags:
 - Dry lips
 - chapped lips
 - winter lips
-draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
