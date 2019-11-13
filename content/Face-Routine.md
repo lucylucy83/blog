@@ -7,10 +7,11 @@ description: 'Need a simple skin care routine and not sure where to start? If yo
 type: featured
 image: images/featured-post/Face.png
 categories:
-- Skincare
+- Face
 tags:
 - Skincare
 - Face
+- Face Routine
 
 ---
 A simple skincare routine will help tune up your complexion and also troubleshoot any areas you want to work on. A simple skincare routine will help you stick to your skincare goals and is exactly what you want because you will need time to see the effects of your efforts. Consistency is key and you need around 6 weeks to see a full impact. However, your skin should start showing positive signs after 2 weeks.
