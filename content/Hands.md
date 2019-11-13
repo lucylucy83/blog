@@ -3,7 +3,7 @@ title: "Skin Care Tips For Your Body"
 date: 2019-05-14T14:46:10+06:00
 description: "We’ve broken down a basic body care routine into five simple steps, and we’re sharing everything you need to know right here. Keep reading to find out the key principle to a perfect body skin care routine."
 type: "featured"
-image: "images/featured-post/Body.png"
+image: "images/featured-post/Hands.png"
 categories: 
   - "Body"
 tags:
@@ -20,7 +20,7 @@ If you've been neglecting the skin on your body, it's time to create a body skin
 >The key to a perfect body skin care routine is finding one that is easy enough for you to stick with, yet will go beyond what you are doing. Don't add a million new steps and don't crete such a lenghty routine that you won't have time for it. Simple, new and easy is key.
 
 <div class="imgbox">
-    <img class="center-fit" src='/images/makeiteasy.png'>
+    <img class="full-width" src='/images/makeiteasy.png'>
 </div>
 
 <h3> Step 1: Get clean

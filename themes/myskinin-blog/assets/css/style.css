@@ -270,6 +270,10 @@ a.text-dark:hover {
   color: #ff6f00 !important;
 }
 
+.full-width {
+    width: 100%;
+}
+
 .slick-slide {
   outline: 0;
 }
