@@ -3,7 +3,7 @@ title: Dry Lips In Winter?
 date: 2019-05-14T08:46:10.000+00:00
 description: This is meta description
 type: featured
-image: images/featured-post/Eyes.png
+image: images/featured-post/dry-winter-lips.png
 categories:
 - Lips
 tags:
