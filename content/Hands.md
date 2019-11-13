@@ -12,6 +12,7 @@ tags:
 - Body scrub
 - Smooth skin
 - Body
+draft: true
 
 ---
 Finding the perfect skin care routine for your face is great, but a routine for skin care for your body is a must too. Just as you should use a facial cleanser, exfoliator, and moisturizer (and more) on your face, you should also use skin care products on the skin below your neck. Dry, itchy, aged skin on your body takes away from the glowing complexion you've worked so hard to achieve. 
