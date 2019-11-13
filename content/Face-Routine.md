@@ -64,7 +64,7 @@ The answer to the first question is apply in order of consistency — from thinn
 * -Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging
 * -Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne
 
-The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine. 
+The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine.
 
 Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum.
 
@@ -72,18 +72,16 @@ Apply your moisturiser a minute after your serum to give the serum a chance to a
 <img class="full-width" src='/images/featured-post/serums-cremes.png' alt="basic skincare routine">
 </div>
 
-If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. Our favourite is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness. 
+If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. Our favourite is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness.
 
 <h3> Don't forget your eye cream
 
 Eye creams are not an absolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingredients that offer solutions to your concerns is key.
 
-<div class="imgbox">
-<img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
-</div>
+![Simple skin care routine eye cream](/uploads/eye-creme.png "Eye cream for simple skin care routine")
 
 Under eye bags and dark circles are the most common concerns. Wrinkles and droopiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
 
-Because the skin around the eye area is so delicate, we recommend that you avoid heavy products. You don't want anything pulling on or weighing down the already delicate and thinner tissue. 
+Because the skin around the eye area is so delicate, we recommend that you avoid heavy products. You don't want anything pulling on or weighing down the already delicate and thinner tissue.
 
-A good all-around, weightless option is[ Tatcha Luminous Deep Hydration Firming Eye Serum](https://amzn.to/34ZF6Hb "Tatcha Eye cream"). It's key ingredient - Okinawa red algae enhances the skin's barrier function, replenishes natural water reservoir and increases its moisture-retention capabilities. Honeysuckle leaf and caffeine sooth and act as anti-oxidants.  We saw visible firming, reduced puffiness, and plumping. 
+A good all-around, weightless option is[ Tatcha Luminous Deep Hydration Firming Eye Serum](https://amzn.to/34ZF6Hb "Tatcha Eye cream"). It's key ingredient - Okinawa red algae enhances the skin's barrier function, replenishes natural water reservoir and increases its moisture-retention capabilities. Honeysuckle leaf and caffeine sooth and act as anti-oxidants.  We saw visible firming, reduced puffiness, and plumping.
