@@ -80,4 +80,4 @@ Eye creams are not an asbolute necessity, but if you have particular concerns su
 <img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
 </div>
 
-Undereye bags and dark circles are the most common concers. Wrinkles and droppiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
+Under eye bags and dark circles are the most common concerns. Wrinkles and droopiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
