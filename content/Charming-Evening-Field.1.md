@@ -1,18 +1,20 @@
 ---
-title: "How To Use A Body Scrub [Full Guide]"
-date: 2019-10-01T14:46:10+06:00
-description: "Learn how to use a body scrub effectively including easy key steps used by leading spas. Get “OMG! Is that human skin?” results! Read full details here."
-type: "post"
-image: "images/body-scrub/How-to-use-a-body-scrub.png"
-categories: 
-  - "Body Scrubs"
+title: How To Use A Body Scrub [Full Guide]
+date: 2019-10-01T08:46:10.000+00:00
+description: Learn how to use a body scrub effectively including easy key steps used
+  by leading spas. Get “OMG! Is that human skin?” results! Read full details here.
+type: post
+image: images/body-scrub/How-to-use-a-body-scrub.png
+categories:
+- Body Scrubs
 tags:
-  - "Body Scrubs"
-  - "Body Exfoliation"
-  - "Exfoliation"
-  - "Smooth Skin"
----
+- Body Scrubs
+- Body Exfoliation
+- Exfoliation
+- Smooth Skin
+draft: true
 
+---
 If you want to know how to use a body scrub, please keep reading. In this guide, you are going to learn how to exfoliate the body like a pro. 
 
 We show you how to use a coffee scrub, sugar scrub, seasalt scrub and other types of body scrubs. We also share secrets used by high end spas that you can easily replicate at home. 
@@ -73,9 +75,4 @@ Body scrub ingredients such as coffee, sugar, salt or another type of scrub shou
 
 We hope this post showed you how to use a body scrub effectively. Our aim is to share decades of skin care obsession with you. We don’t want to post a bunch of Photoshopped before/after photos and make you believe that we recommend miraculous cures. We do want to share with you logic and reasons for why what we recommend works. 
 
-Do you have other skin care questions? Please let us know by commenting below! We’ll do our best to create a post to answer your questions. 
-
-
-
-
-
+Do you have other skin care questions? Please let us know by commenting below! We’ll do our best to create a post to answer your questions.
