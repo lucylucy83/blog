@@ -78,7 +78,7 @@ If you have the idea of using too many products, find a multi-function moisturis
 
 Eye creams are not an absolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingredients that offer solutions to your concerns is key.
 
-<div class="imgbox"> <img class="full-width" 
+<div class="imgbox"> <img class="full-width">
 
 ![Simple skin care routine eye cream](/uploads/eye-creme.png "Eye cream for simple skin care routine")
 
