@@ -1,5 +1,5 @@
 ---
-title: Skin Care Tips For Your Body
+title: Skincare For Your Body
 date: 2019-05-14T08:46:10.000+00:00
 description: We’ve broken down a basic body care routine into five simple steps, and
   we’re sharing everything you need to know right here. Keep reading to find out the
