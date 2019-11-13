@@ -78,7 +78,11 @@ If you have the idea of using too many products, find a multi-function moisturis
 
 Eye creams are not an absolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingredients that offer solutions to your concerns is key.
 
+<div class="imgbox"> <img class="full-width" 
+
 ![Simple skin care routine eye cream](/uploads/eye-creme.png "Eye cream for simple skin care routine")
+
+</div>
 
 Under eye bags and dark circles are the most common concerns. Wrinkles and droopiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
 
