@@ -1,5 +1,5 @@
 ---
-title: Skin Care Tips For Your Hands
+title: Dry Skin On Hands
 date: 2019-05-14T08:46:10.000+00:00
 description: We’ve broken down a basic body care routine into five simple steps, and
   we’re sharing everything you need to know right here. Keep reading to find out the
@@ -12,7 +12,6 @@ tags:
 - Body scrub
 - Smooth skin
 - Body
-draft: true
 
 ---
 Finding the perfect skin care routine for your face is great, but a routine for skin care for your body is a must too. Just as you should use a facial cleanser, exfoliator, and moisturizer (and more) on your face, you should also use skin care products on the skin below your neck. Dry, itchy, aged skin on your body takes away from the glowing complexion you've worked so hard to achieve. 
