@@ -59,10 +59,11 @@ Which goes first? Do you need both? What about sunscreen?
 
 The answer to the first question is apply in order of consistency — from thinnest to thickest. Serum is basically a treatment for existing skin problems or prevents you from/slows down future ones including dark spots, wrinkles, unevenness, etc. A basic guideline for ingredients is as follows:
 
-* -Vitamin C: brightens dull skin and decreases dark spots
-* -Hyaluronic acid: seals in moisture and prevents moisture loss
-* -Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging
-* -Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne
+<ul>
+  <li>Vitamin C: brightens dull skin and decreases dark spots</li>
+  <li>Hyaluronic acid: seals in moisture and prevents moisture loss</li>
+  <li>Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging</li>
+  <li>Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne</li>
 
 The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine.
 
@@ -80,7 +81,9 @@ Eye creams are not an absolute necessity, but if you have particular concerns su
 
 <div class="imgbox"> <img class="full-width">
 
-![Simple skin care routine eye cream](/uploads/eye-creme.png "Eye cream for simple skin care routine")
+<div class="imgbox">
+<img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
+</div>
 
 </div>
 
