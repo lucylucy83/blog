@@ -64,6 +64,7 @@ The answer to the first question is apply in order of consistency — from thinn
   <li>Hyaluronic acid: seals in moisture and prevents moisture loss</li>
   <li>Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging</li>
   <li>Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne</li>
+</ul>
 
 The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine.
 
