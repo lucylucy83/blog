@@ -1,17 +1,16 @@
 ---
-title: "Basic Skincare Routine"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/Face.png"
-categories: 
-  - "Skincare"
+title: Basic Skincare Routine
+date: 2019-05-14T08:46:10.000+00:00
+description: This is meta description
+type: featured
+image: images/featured-post/Face.png
+categories:
+- Skincare
 tags:
-  - "Skincare"
-  - "Face"
+- Skincare
+- Face
+
 ---
-
-
 A simple skincare routine will help tune up your complexion and also troubleshoot any areas you want to work on. A simple skincare routine will help you stick to your skincare goals and is exactly what you want because you will need time to see the effects of your efforts. Consistency is key and you need around 6 weeks to see a full impact. However, your skin should start showing positive signs after 2 weeks.
 
 Therefore, while it may be tempting and commendable to set an extensive overhaul of your skin care habits, we recommend that you start with a simple skincare routine. 
@@ -37,7 +36,6 @@ It's tempting to choose a heavy duty, abraisive exfoliator to get fast results. 
 A gentle, long term approach is much better. We prefer AHA (alpha hydroxy acids/glycolic and lactic acids) and BHA (beta hydroxy/salicylic acid) exfoliants to traditional face scrubs. AHAs and BHAs both act to “unglue” the bonds holding dull, dead skin on the surface. AHA is more gentle and superficial (better if you have dry skin), BHAs go deeper (better for oily skin, breakout prone skin). <a href="https://amzn.to/2Q9t6ic">Beverly Hills 3 AHA Exfoliant</a> uses three forms of alpha-hydroxy acids: Glycolic Acid, Pyruvic Acid and Lactic Acid. The formula provides a good amount of exfoliation in a nourishing and penetrating gel.<a href="https://amzn.to/2QbMQBW">Paula's Choice BHA exfoliant</a> put our breakouts to rest and even helped reduce scarring from old ones. Or you can get one that's a combination for AHA/BHA if you have oily or combination skin. Our favourite is <a href="https://amzn.to/2CDzW7K">Murad's AHA/BHA Exfoliating cleanser</a>/. 
 
 It's best to start with one application per week and work up to 2 (depending on the strength of the formula you choose and your skin's response). When you start using facial exfoliants, always do a patch test under your jaw and wait a couple of days before doing a full application. 
-
 
 <h3>Tone, if you like
 
@@ -79,5 +77,3 @@ dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur au
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
-
-
