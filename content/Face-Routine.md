@@ -27,7 +27,7 @@ A good cleanser washes your skin without stripping your natural oils. You need t
 
 <h3>Exfoliate carefully
 
-Our skin naturally exfoliates dead cells, but with age and unprotected sun exposure, the natural exfoliation process slows and may stop entirely. This results in an unever skintone, dull, dry, or flaky skin; clogged, enlarged pores; bumps, wrinkles and a loss of firmness.
+Our skin naturally exfoliates dead cells, but with age and unprotected sun exposure, the natural exfoliation process slows and may stop entirely. This results in an uneven skin tone, dull, dry, or flaky skin; clogged, enlarged pores; bumps, wrinkles and a loss of firmness.
 
 Helping skin gently exfoliate reveals the beautiful, soft, hydrated skin hiding beneath.
 
@@ -43,7 +43,7 @@ It's best to start with one application per week and work up to 2 (depending on 
 
 <h3>Tone, if you like
 
-Toners are often misunderstood and many disagree on their effectiveness. They are said to remove excess dirt, traces of oil and makeup, correct and balance the pH of your skin, and helps control acne. We mainly look to our toner to balance/restore our skin's PH after cleansing and we do notice that our skin is better with a toner. However, because the differnce is not as pronnounced as with the other products in our routine, it's the first product we skip when in a rush. Just want to be entirely honest.
+Toners are often misunderstood and many disagree on their effectiveness. They are said to remove excess dirt, traces of oil and makeup, correct and balance the pH of your skin, and helps control acne. We mainly look to our toner to balance/restore our skin's PH after cleansing and we do notice that our skin is better with a toner. However, because the difference is not as pronounced as with the other products in our routine, it's the first product we skip when in a rush. Just want to be entirely honest.
 
 Our original reluctance to toners comes from the late 90s and early 2000's - when toners were harsh and often left "toned" with a sting. Since then, toners have come a long way and include a variety of ingeredients that many people see as a boost to their routine. We however, recommend a gentle toner to avoid unnecessarily doubling up on ingredients found in your other products. <a href="https://amzn.to/2NISGZT">Poppy Austin's Rose Water Toner </a> is a dream come true. Our skin felt lovely, refreshed and ready for the next step after each application. We miss it the days we skip it.
 
