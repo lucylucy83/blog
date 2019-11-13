@@ -1,18 +1,19 @@
 ---
-title: "Skin Care Tips For Your Body"
-date: 2019-05-14T14:46:10+06:00
-description: "We’ve broken down a basic body care routine into five simple steps, and we’re sharing everything you need to know right here. Keep reading to find out the key principle to a perfect body skin care routine."
-type: "featured"
-image: "images/featured-post/Hands.png"
-categories: 
-  - "Body"
+title: Skin Care Tips For Your Hands
+date: 2019-05-14T08:46:10.000+00:00
+description: We’ve broken down a basic body care routine into five simple steps, and
+  we’re sharing everything you need to know right here. Keep reading to find out the
+  key principle to a perfect body skin care routine.
+type: featured
+image: images/featured-post/Hands.png
+categories:
+- Body
 tags:
-  - "Body scrub"
-  - "Smooth skin"
-  - "Body"
+- Body scrub
+- Smooth skin
+- Body
+
 ---
-
-
 Finding the perfect skin care routine for your face is great, but a routine for skin care for your body is a must too. Just as you should use a facial cleanser, exfoliator, and moisturizer (and more) on your face, you should also use skin care products on the skin below your neck. Dry, itchy, aged skin on your body takes away from the glowing complexion you've worked so hard to achieve. 
 
 If you've been neglecting the skin on your body, it's time to create a body skin care routine. A basic body skin care routine can be easy and fast. You just need a bit of organisation and the right tools. 
@@ -43,4 +44,4 @@ Did you know that your post shower towel is another opportunity to exfoliate you
 
 Dydration is key for soft, smooth skin. However, many people skip it because it's a bit time consuming. We find that using a <a href="https://amzn.to/36Vah8j">moisturing spray</a> and leaving your skin just slightly damp post toweling off makes the job much faster and easier. Spray moisturiser saves your the time of having to pump of squeeze the moisturiser on to your body. It also saves you the need to spread it. With a spray, you can elimiate those two steps. Just spray the moisturiser all over and just rub it a bit. We find that <a href="https://amzn.to/36Vah8j">this version from Neutrogena</a> absorbs very quickly and easily. 
 
-Scrubbing your skin regularly will make your shave even smoother and easier. Once you're ready, either use your own, already proven method, or check out this <a href="http://bit.ly/2Q4i4Lb">shaving guide</a>. 
+Scrubbing your skin regularly will make your shave even smoother and easier. Once you're ready, either use your own, already proven method, or check out this <a href="http://bit.ly/2Q4i4Lb">shaving guide</a>.
