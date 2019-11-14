@@ -24,13 +24,13 @@ The key to understanding how to use an exfoliating body scrub effectively is cho
 
 > The key to using body scrub is preparing your skin. The main idea is to soften the surface of your skin so that the body scrub can achieve maximum sloughing of dead skin cells. Preparation can be done in a number of ways and depends on the amount of time you have and how much you want to fuss with it. We will give you a couple of options.
 
-![How to use a body scrub - preparing your skin](../images/body-scrub/How-to-use-a-body-scrub2.png "How to prepare your skin for a body scrub")
+<div class="imgbox"> <img class="full-width" src='/images/body-scrub/How-to-use-a-body-scrub2.png' alt="how to use a body scrub"> </div>
 
 <h3> Option 1 - How to apply a body scrub when you have more time and want a spa experience at home
 
 This option should take around 30 minutes, but you can also adjust the time to suit your needs. 
 
-![How to apply a body scrub like a spa](../images/body-scrub/How-to-use-a-body-scrub3.png "How to apply a body scrub like a spa")
+<div class="imgbox"> <img class="full-width" src='/images/body-scrub/How-to-use-a-body-scrub3.png' alt="how to apply a body scrub"> </div>
 
 Ideally, you would be able to steam your skin at a sauna. However, a sauna can be easily replicated at home by running the shower on a hot setting for about 5 minutes. Always point the hot water away from yourself. Depending on the size of your bathroom, it should start to fill up with steam fairly quickly. If you have a cabin shower, you can step inside and put the water on as hot as you can without burning yourself. Again, direct the water away from yourself and be very careful to avoid burns. Your skin should not get wet. It’s about steaming. Make sure the ventilation is off and that the main door and windows are shut.  If at any time you start to feel dizzy or unwell, immediately open the main door, windows, etc. to let the steam out. Always keep a bottle of cold water nearby and sip it while the steam is coming and during the steaming process.
 
@@ -42,9 +42,9 @@ Finally, follow all steps from Option 2 (below). By the time you finish, you wil
 
 <h3>Option 2: How to apply a body scrub when you have a few minutes
 
-This option is really the bare minimum that should be done for body scrub application. It should take 5-10 minutes. 
+This option is really the bare minimum that should be done for body scrub application. It should take 5-10 minutes.
 
-![How to use a body scrub quickly](../images/body-scrub/How-to-use-a-body-scrub4.png "How to apply a body scrub quickly")
+<div class="imgbox"> <img class="full-width" src='/images/body-scrub/How-to-use-a-body-scrub4.png' alt="how to use a body scrub"> </div>
 
 While standing in the shower/bath and BEFORE you turn on the water, run shower oil all over your skin. It is absolutely imperative that you do this before you get your skin wet because the oil will stick to your skin better and will have a fantastic softening effect.  Spread the oil generously and be sure to cover every part that you want exfoliated, especially tougher areas like your elbows and palms. If you are also exfoliating your feet, it is advisable to use a shower stool or to sit on the floor of your shower/bathtub. Be very careful not to slip - oil is slippery.  It's best to use a shower oil (as opposed to a beauty oil) because they will rinse much easier when it’s time to wash everything off. We love [Rituals Rose and Almond Oil](https://www.amazon.co.uk/RITUALS-Rituals-Ayurveda-Shower-200ml/dp/B07P6Q42R3/ref=asc_df_B07P6Q42R3/?tag=googshopuk-21&linkCode=df0&hvadid=218158311983&hvpos=1o4&hvnetw=g&hvrand=2334297160444525157&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045999&hvtargid=pla-761829966453&psc=1&th=1&psc=1).. The scent is absolutely divine and our skin was softer than ever before. It also has the right balance of slipperiness and sticks to your skin well enough for the next step.
 
@@ -60,11 +60,11 @@ Now that you know how to use your body scrub properly, we’d like to show you h
 
 Warmer weather calls for light moisturisers and a deeper cleansing body wash that will de-gunk your pores after sweat.
 
-Humidity is your friend when it comes to keeping your skin supply and making the effects of your body scrub last. The only downside of it is that smog and gunk tends to stick to your skin. Fear not! We recommend [dry brushing](https://www.elle.com/uk/beauty/body-and-physical-health/a36493/dry-body-brushing-health-benefits/)(putting a bit of body oil on the brush beforehand makes magic!) or using a good loofah.
+Humidity is your friend when it comes to keeping your skin supply and making the effects of your body scrub last. The only downside of it is that smog and gunk tends to stick to your skin. Fear not! We recommend [dry brushing](https://www.elle.com/uk/beauty/body-and-physical-health/a36493/dry-body-brushing-health-benefits/) (putting a bit of body oil on the brush beforehand makes magic!) or using a good loofah.
 
 Heading 2: What’s the best body scrub?
 
-![](../images/body-scrub/How-to-use-a-body-scrub5.png)
+<div class="imgbox"> <img class="full-width" src='/images/body-scrub/How-to-use-a-body-scrub5.png' alt="how to use a body scrub"> </div>
 
 The best body scrub is the one that is most appropriate for your skin type. The grain size of the body scrub should parallel your skin. The finer and more delicate your skin, the finer and more delicate the body scrub. Do a patch test before purchasing and if the body scrub feels painful,  like it’s pulling at your skin or leaves a lasting redness, do not buy it. Using a scrub that is too coarse can lead to micro scarring and make your skin rougher in the long term. It is better to use as fine of a grain as possible, yet still effective on your skin. It should feel like a tiny, pleasant massage. (Later in this guide we show you the trick spa’s use to get the most out of these tiny grains. Please keep reading.)
 
