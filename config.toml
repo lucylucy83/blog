@@ -1,4 +1,4 @@
-baseURL = "https://competent-cori-e1d191.netlify.com"
+baseURL = "https://www.myskinin.com"
 languageCode = "en-us"
 title = "MySkinin | Skincare Insights"
 theme = "myskinin-blog"
@@ -58,7 +58,6 @@ paginate = 6
   name = "Contact"
   URL = "contact"
   weight = 3
-
 
 [params]
 logo = "images/logo.png"
