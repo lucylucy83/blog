@@ -2,7 +2,7 @@
 title: Dry Lips In Winter?
 date: 2019-05-14T08:46:10.000+00:00
 description: Dry winter lips are an inevitable in colder seasons. We show you how to get rid of dry lips fast. We show you which lip balms work best for dry winter lips and what you should avoid at all costs. 
-type: featured
+type: post
 image: images/featured-post/dry-winter-lips.png
 categories:
 - Lips
