@@ -70,7 +70,7 @@ description = "Want to know how to get perfect skin? We know how to get flawless
 # about author
 author = "MySkinin"
 authorImage = "scincare-advice-experts"
-shortDescription = "We share decades of skin care obsession with you. We don’t post a bunch of Photoshopped before/after photos and make you believe that we recommend miraculous cures. We do share with you logic and reasons for why what we recommend works."
+shortDescription = "We share decades of skin care obsession with you. No edited before/after photos and make you believe that we recommend miraculous cures. We only share with you logic and reasons for why what we recommend works."
 # Contact Form Action
 contactFormAction = "#"
 # Google Analitycs
@@ -80,7 +80,7 @@ copyright = "Mysninin.com"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   
   # search
   [params.search]

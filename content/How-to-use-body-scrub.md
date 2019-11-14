@@ -6,7 +6,7 @@ description: Learn how to use a body scrub effectively including easy key steps 
 type: post
 image: images/body-scrub/How-to-use-a-body-scrub.png
 categories:
-- Body Scrubs
+- Body
 tags:
 - Body Scrubs
 - Body Exfoliation
