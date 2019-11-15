@@ -1,4 +1,13 @@
 <header class="navigation">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152586290-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-152586290-1');
+</script>
   <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-brand" href="{{.Site.BaseURL}}"><img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{.Site.Title}}"></a>
     <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navogation"
