@@ -3,7 +3,7 @@ title: How To Use A Body Scrub [Full Guide]
 date: 2019-10-14T08:46:10.000+00:00
 description: Learn how to use a body scrub effectively including easy key steps used
   by leading spas. Get “OMG! Is that human skin?” results! Read full details here.
-type: featured
+type: post
 image: images/body-scrub/How-to-use-a-body-scrub.png
 categories:
 - Body
