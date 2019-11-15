@@ -5,7 +5,7 @@ description: We’ve broken down a basic body care routine into five simple step
   we’re sharing everything you need to know right here. Keep reading to find out the
   key principle to a perfect body skin care routine.
 type: post
-image: images/featured-post/Body.png
+image: images/featured-post/skincare-for-body.png
 categories:
 - Body
 tags:

@@ -5,7 +5,7 @@ description: 'Need a simple skin care routine and not sure where to start? If yo
   have three minutes or 15, we''ll show you a basic skin care routine that you can
   stick to. See what you absolutely need to do and what you can live without. '
 type: post
-image: images/featured-post/Face.png
+image: images/featured-post/basic-skincare-routine.png
 categories:
 - Face
 tags:
