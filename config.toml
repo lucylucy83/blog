@@ -73,13 +73,13 @@ shortDescription = "We share decades of skin care obsession with you. No edited 
 # Contact Form Action
 contactFormAction = "#"
 # Google Analitycs
-googleAnalitycsID = "152586290"
+googleAnalitycsID = "UA-152586290-1"
 # copyright
 copyright = "MySkinin.com"
 
   # Preloader
   [params.preloader]
-  enable = false
+  enable = true
   
   # search
   [params.search]
