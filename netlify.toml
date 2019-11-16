@@ -1,0 +1,15 @@
+[[headers]]
+# Cache images for a day
+for = "images/*"
+  [headers.values]
+  cache-control = '''
+  max-age=86400,
+  must-revalidate'''
+
+[[headers]]
+for = "plugins/*"
+# Cache javascript plugins for 1 day
+  [headers.values]
+  cache-control = '''
+  max-age=86400,
+  must-revalidate'''
