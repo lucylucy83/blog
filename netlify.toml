@@ -1,6 +1,0 @@
-[[headers]]
-  for = "plugins/*"
-  [headers.values]
-  cache-control = '''
-  max-age=86400,
-  must-revalidate'''
