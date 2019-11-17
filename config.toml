@@ -79,7 +79,7 @@ copyright = "MySkinin.com"
 
   # Preloader
   [params.preloader]
-  enable = true
+  enable = false
   
   # search
   [params.search]
