@@ -5,7 +5,7 @@ description: 'Need a simple skin care routine and not sure where to start? If yo
   have three minutes or 15, we''ll show you a basic skin care routine that you can
   stick to. See what you absolutely need to do and what you can live without. '
 type: post
-image: images/featured-post/basic-skincare-routine.png
+image: images/featured-post/basic-skincare-routine.webp
 categories:
 - Face
 tags:
@@ -37,14 +37,14 @@ Helping skin gently exfoliate reveals the beautiful, soft, hydrated skin hiding 
 It's tempting to choose a heavy duty, abrasive exfoliator to get fast results. However, take it easy! Harsh exfoliants will leave micro tears/scarring on your skin that will build up over time and in the long run, will make your skin appear more rough an uneven. Avoid those with crushed walnut shells or abrasive ingredients.
 
 <div class="imgbox">
-<img class="full-width" src='/images/featured-post/noscrub.png' alt="simple skincare routine">
+<img class="full-width" src='/images/featured-post/noscrub.webp' alt="simple skincare routine">
 </div>
 
 <<<<<<< Updated upstream
 A gentle, long term approach is much better. We prefer AHA (alpha hydroxy acids/glycolic and lactic acids) and BHA (beta hydroxy/salicylic acid) exfoliants to traditional face scrubs. AHAs and BHAs both act to “unglue” the bonds holding dull, dead skin on the surface. AHA is more gentle and superficial (better if you have dry skin), BHAs go deeper (better for oily skin, breakout prone skin). <a href="https://amzn.to/2Q9t6ic">Beverly Hills 3 AHA Exfoliant</a> uses three forms of alpha-hydroxy acids: Glycolic Acid, Pyruvic Acid and Lactic Acid. The formula provides a good amount of exfoliation in a nourishing and penetrating gel.<a href="https://amzn.to/2QbMQBW">Paula's Choice BHA exfoliant</a> put our breakouts to rest and even helped reduce scarring from old ones. Or you can get one that's a combination for AHA/BHA if you have oily or combination skin. Our favourite is <a href="https://amzn.to/2CDzW7K">Murad's AHA/BHA Exfoliating cleanser</a>/.
 =======
 <div class="imgbox">
-    <img class="full-width" src='/images/featured-post/noscrub.png' alt="simple skincare routine">
+    <img class="full-width" src='/images/featured-post/noscrub.webp' alt="simple skincare routine">
 </div>
 
 A gentle, long term approach is much better. We prefer AHA (alpha hydroxy acids/glycolic and lactic acids) and BHA (beta hydroxy/salicylic acid) exfoliants to traditional face scrubs. AHAs and BHAs both act to “unglue” the bonds holding dull, dead skin on the surface. AHA is more gentle and superficial (better if you have dry skin), BHAs go deeper (better for oily skin, breakout prone skin). <a href="https://amzn.to/2Q9t6ic">Beverly Hills 3 AHA Exfoliant</a> uses three forms of alpha-hydroxy acids: Glycolic Acid, Pyruvic Acid and Lactic Acid. The formula provides a good amount of exfoliation in a nourishing and penetrating gel.<a href="https://amzn.to/2QbMQBW">Paula's Choice BHA exfoliant</a> put our breakouts to rest and even helped reduce scarring from old ones. Or you can get one that's a combination for AHA/BHA if you have oily or combination skin. Our favourite is <a href="https://amzn.to/2CDzW7K">Murad's AHA/BHA Exfoliating cleanser</a>/. 
@@ -59,7 +59,7 @@ Toners are often misunderstood and many disagree on their effectiveness. They ar
 Our original reluctance to toners comes from the late 90s and early 2000's - when toners were harsh and often left "toned" with a sting. Since then, toners have come a long way and include a variety of ingredients that many people see as a boost to their routine. We however, recommend a gentle toner to avoid unnecessarily doubling up on ingredients found in your other products. <a href="https://amzn.to/2NISGZT">Poppy Austin's Rose Water Toner </a> is a dream come true. Our skin felt lovely, refreshed and ready for the next step after each application. We miss it the days we skip it.
 
 <div class="imgbox">
-<img class="full-width" src='/images/featured-post/gentle-toner.png' alt="basic skincare routine">
+<img class="full-width" src='/images/featured-post/gentle-toner.webp' alt="basic skincare routine">
 </div>
 
 <<<<<<< Updated upstream
@@ -68,7 +68,7 @@ To apply, we simple put a little bit on our hands and gently dab it our face. Do
 <h2> Serums and moisturisers
 =======
 <div class="imgbox">
-    <img class="full-width" src='/images/featured-post/gentle-toner.png' alt="basic skincare routine">
+    <img class="full-width" src='/images/featured-post/gentle-toner.webp' alt="basic skincare routine">
 </div>
 
 To apply, we simple put a little bit on our hands and gently dab it our face. Do not rub it in (you'll end up with uneven application) and do not use a cotton pad to apply - you will waste product. 
@@ -99,7 +99,7 @@ The optimal moisturiser depends on your skin type. The weight should counter bal
 Moisturises hydrate, soften and prevent water loss. The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum. 
 
 <div class="imgbox">
-    <img class="full-width" src='/images/featured-post/serums-cremes.png' alt="basic skincare routine">
+    <img class="full-width" src='/images/featured-post/serums-cremes.webp' alt="basic skincare routine">
 </div>
 
 >>>>>>> Stashed changes
@@ -107,7 +107,7 @@ Moisturises hydrate, soften and prevent water loss. The optimal moisturiser depe
 Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum.
 
 <div class="imgbox">
-<img class="full-width" src='/images/featured-post/serums-cremes.png' alt="basic skincare routine">
+<img class="full-width" src='/images/featured-post/serums-cremes.webp' alt="basic skincare routine">
 </div>
 
 If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. Our favourite is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness.
@@ -120,7 +120,7 @@ Eye creams are not an absolute necessity, but if you have particular concerns su
 <div class="imgbox"> <img class="full-width">
 
 <div class="imgbox">
-<img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
+<img class="full-width" src='/images/featured-post/eye-creme.webp' alt="basic skincare routine">
 </div>
 
 </div>
@@ -132,7 +132,7 @@ Because the skin around the eye area is so delicate, we recommend that you avoid
 Eye creams are not an asbolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingeredients that offer solutions to your concerns is key. 
 
 <div class="imgbox">
-    <img class="full-width" src='/images/featured-post/eye-creme.png' alt="basic skincare routine">
+    <img class="full-width" src='/images/featured-post/eye-creme.webp' alt="basic skincare routine">
 </div>
 
 Undereye bags and dark circles are the most common concers. Wrinkles and droppiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment. 

@@ -5,7 +5,7 @@ description: We’ve broken down a basic body care routine into five simple step
   we’re sharing everything you need to know right here. Keep reading to find out the
   key principle to a perfect body skin care routine.
 type: post
-image: images/featured-post/skincare-for-body.png
+image: images/featured-post/skincare-for-body.webp
 categories:
 - Body
 tags:
@@ -20,7 +20,7 @@ If you've been neglecting the skin on your body, it's time to create a body skin
 
 > The key to a perfect body skin care routine is finding one that is easy enough for you to stick with, yet will go beyond what you are doing. Don't add a million new steps and don't create such a lengthy routine that you won't have time for it. Simple, new and easy is key.
 
-<div class="imgbox"> <img class="full-width" src='/images/makeiteasy.png' alt="skin care for body"> </div>
+<div class="imgbox"> <img class="full-width" src='/images/makeiteasy.webp' alt="skin care for body"> </div>
 
 <h3> Step 1: Get clean
 
@@ -30,7 +30,7 @@ The first part of a good body skin care routine should be cleansing. Choose a bo
 
 A body skin routing should involve exfoliation at least 1-2 times per week. Exfoliation helps remote dead skin cells, can improve circulation and reduce the appearance of cellulite. We recommend exfoliating with a body scrub, a body brush or an exfoliating glove. We find body scrubs to be the most thorough form of exfoliation. <a href="https://amzn.to/32AIyGD">Body brushes</a> have a better impact on the appearance of cellulite and <a href="https://amzn.to/36V6KXB">exfoliating gloves<a/> tend to be the fastest since you just put them on your hands and scrub away.
 
-<div class="imgbox"> <img class="full-width" src='/images/featured-post/how-often-to-use-body-scrub.png' alt="how often should i use a body scrub"> </div>
+<div class="imgbox"> <img class="full-width" src='/images/featured-post/how-often-to-use-body-scrub.webp' alt="how often should i use a body scrub"> </div>
 
 <h3> Step 3: Shave
 
@@ -44,6 +44,6 @@ Did you know that your post shower towel is another opportunity to exfoliate you
 
 Hydration is key for soft, smooth skin. However, many people skip it because it's a bit time consuming. We find that using a <a href="https://amzn.to/36Vah8j">moisturing spray</a> and leaving your skin just slightly damp post toweling off makes the job much faster and easier. Spray moisturiser saves your the time of having to pump of squeeze the moisturiser on to your body. It also saves you the need to spread it. With a spray, you can eliminate those two steps. Just spray the moisturiser all over and just rub it a bit. We find that <a href="https://amzn.to/36Vah8j">this version from Neutrogena</a> absorbs very quickly and easily.
 
-<div class="imgbox"> <img class="full-width" src='/images/featured-post/spray-moisturiser.png' alt="how often should i use a body scrub"> </div>
+<div class="imgbox"> <img class="full-width" src='/images/featured-post/spray-moisturiser.webp' alt="how often should i use a body scrub"> </div>
 
 Scrubbing your skin regularly will make your shave even smoother and easier. Once you're ready, either use your own, already proven method, or check out this <a href="http://bit.ly/2Q4i4Lb">shaving guide</a>.
