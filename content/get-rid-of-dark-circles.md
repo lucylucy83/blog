@@ -81,9 +81,11 @@ Our favourite under eye bags creams include:
 
 Dark undereye circles can also result from a lack of sleep, or lack of proper sleep. Our analysis concludes three main reasons for lack of quality and/or quantity of sleep. 
 
-1)Late nights/early mornings 
-2)Insomnia 
-3)Poor quality of sleep 
+<ol>
+<li>1) Late nights/early mornings</li> 
+<li>2) Insomnia</li>
+<li>3) Poor quality of sleep</li>
+</ol>
 
 Late nites and early mornings quickly take a toll on your under eye circles. At best, you’ll see a mild darkening. At worst, you’ll look like last night’s cocktails turned into a brawl. Fear not, aside from telling you to catch more zzz’s, we have some temporary solutions. We stress temporary because we would never advise you to neglect sleep. In our late night/early morning hay day, we stuck to a strict schedule of 3 max late nights per week in a row and a heavy dose of concealer. 
 
@@ -93,7 +95,7 @@ Insomnia tends to be mostly in the mind and sometimes in the body. It’s about 
 
 Body related insomnia can be abated with progressive muscle relaxation techniques. [Click here](https://wb.md/33XvQDf) for WebMD’s guide to progressive muscle relaxation. 
 
-<H2>Poor sleep. 
+<H2>Poor quality of sleep
 
 Do you still have under eye circles and eye bags even though you’re getting a proper night’s sleep? The answer could be in the quality of your sleep!
 
