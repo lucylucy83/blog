@@ -95,9 +95,7 @@ Insomnia tends to be mostly in the mind and sometimes in the body. It’s about 
 
 Body related insomnia can be abated with progressive muscle relaxation techniques. [Click here](https://wb.md/33XvQDf) for WebMD’s guide to progressive muscle relaxation. 
 
-<H2><a name="Poor-quality-sleep">Poor quality of sleep</a><H2> 
-
-<h3><a name="menu">Menu</a></h3>
+<H2><a name="poor-quality-sleep">Poor quality of sleep</a><H2> 
 
 Do you still have under eye circles and eye bags even though you’re getting a proper night’s sleep? The answer could be in the quality of your sleep!
 
