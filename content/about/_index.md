@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "No Photoshopped before/after photos. Just skincare advice based on logic, reasoning and experience. "
 image: "images/scincare-advice-experts.webp"
 ---
 Our aim is to share decades of skin care obsession with you. We don’t want to post a bunch of Photoshopped before/after photos and make you believe that we recommend miraculous cures. We do want to share with you logic and reasons for why what we recommend works. 

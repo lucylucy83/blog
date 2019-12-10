@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "Send us your skincare question! We love to hear from you and will try to find a skincare solution for your issues."
 image: "images/contact.webp"
 ---
 <h2>We want to hear from you! 
