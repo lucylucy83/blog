@@ -1,5 +1,5 @@
 ---
-title: Dark circles treatment |complete guide
+title: Dark circles treatment | complete guide
 date: 2019-11-14T08:46:10.000+00:00
 description: Have you ever wondered how to get rid of dark undereye circles? Regardless of whether your dark circles are from a lack of sleep, hereditary, your facial structure, lifestyle, makeup or just there, it is possible to get rid of them. You can read all about in this blog article written in October 2019. 
 type: post
