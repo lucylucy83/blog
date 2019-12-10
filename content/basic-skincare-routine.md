@@ -40,15 +40,7 @@ It's tempting to choose a heavy duty, abrasive exfoliator to get fast results. H
 <img class="full-width" src='/images/featured-post/noscrub.webp' alt="simple skincare routine">
 </div>
 
-<<<<<<< Updated upstream
-A gentle, long term approach is much better. We prefer AHA (alpha hydroxy acids/glycolic and lactic acids) and BHA (beta hydroxy/salicylic acid) exfoliants to traditional face scrubs. AHAs and BHAs both act to “unglue” the bonds holding dull, dead skin on the surface. AHA is more gentle and superficial (better if you have dry skin), BHAs go deeper (better for oily skin, breakout prone skin). <a href="https://amzn.to/2Q9t6ic">Beverly Hills 3 AHA Exfoliant</a> uses three forms of alpha-hydroxy acids: Glycolic Acid, Pyruvic Acid and Lactic Acid. The formula provides a good amount of exfoliation in a nourishing and penetrating gel.<a href="https://amzn.to/2QbMQBW">Paula's Choice BHA exfoliant</a> put our breakouts to rest and even helped reduce scarring from old ones. Or you can get one that's a combination for AHA/BHA if you have oily or combination skin. Our favourite is <a href="https://amzn.to/2CDzW7K">Murad's AHA/BHA Exfoliating cleanser</a>/.
-=======
-<div class="imgbox">
-    <img class="full-width" src='/images/featured-post/noscrub.webp' alt="simple skincare routine">
-</div>
-
 A gentle, long term approach is much better. We prefer AHA (alpha hydroxy acids/glycolic and lactic acids) and BHA (beta hydroxy/salicylic acid) exfoliants to traditional face scrubs. AHAs and BHAs both act to “unglue” the bonds holding dull, dead skin on the surface. AHA is more gentle and superficial (better if you have dry skin), BHAs go deeper (better for oily skin, breakout prone skin). <a href="https://amzn.to/2Q9t6ic">Beverly Hills 3 AHA Exfoliant</a> uses three forms of alpha-hydroxy acids: Glycolic Acid, Pyruvic Acid and Lactic Acid. The formula provides a good amount of exfoliation in a nourishing and penetrating gel.<a href="https://amzn.to/2QbMQBW">Paula's Choice BHA exfoliant</a> put our breakouts to rest and even helped reduce scarring from old ones. Or you can get one that's a combination for AHA/BHA if you have oily or combination skin. Our favourite is <a href="https://amzn.to/2CDzW7K">Murad's AHA/BHA Exfoliating cleanser</a>/. 
->>>>>>> Stashed changes
 
 It's best to start with one application per week and work up to 2 (depending on the strength of the formula you choose and your skin's response). When you start using facial exfoliants, always do a patch test under your jaw and wait a couple of days before doing a full application.
 
@@ -65,22 +57,13 @@ Our original reluctance to toners comes from the late 90s and early 2000's - whe
 <<<<<<< Updated upstream
 To apply, we simple put a little bit on our hands and gently dab it our face. Do not rub it in (you'll end up with uneven application) and do not use a cotton pad to apply - you will waste product.
 
-<h2> Serums and moisturisers
-=======
-<div class="imgbox">
-    <img class="full-width" src='/images/featured-post/gentle-toner.webp' alt="basic skincare routine">
-</div>
-
-To apply, we simple put a little bit on our hands and gently dab it our face. Do not rub it in (you'll end up with uneven application) and do not use a cotton pad to apply - you will waste product. 
-
 <h3> Serums and moisturisers
->>>>>>> Stashed changes
+
 
 Which goes first? Do you need both? What about sunscreen?
 
 The answer to the first question is apply in order of consistency — from thinnest to thickest. Serum is basically a treatment for existing skin problems or prevents you from/slows down future ones including dark spots, wrinkles, unevenness, etc. A basic guideline for ingredients is as follows:
 
-<<<<<<< Updated upstream
 <ul>
   <li>Vitamin C: brightens dull skin and decreases dark spots</li>
   <li>Hyaluronic acid: seals in moisture and prevents moisture loss</li>
@@ -88,21 +71,10 @@ The answer to the first question is apply in order of consistency — from thinn
   <li>Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne</li>
 </ul>
 
-The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine.
-=======
-   <li>Vitamin C: brightens dull skin and decreases dark spots</li>
-   <li>Hyaluronic acid: seals in moisture and prevents moisture loss</li>
-   <li>Retinol, vitamin B3: stimulate the production of collagen and elastin, which help prevent lines and sagging</li>
-   <li>Colloidal sulfur, niacinamide: calm redness by decreasing inflammation, and have antimicrobial effects to improve acne</li>
-  </ul> 
 
-Moisturises hydrate, soften and prevent water loss. The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately. Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum. 
+<h4>Moisturises hydrate, soften and prevent water loss. 
 
-<div class="imgbox">
-    <img class="full-width" src='/images/featured-post/serums-cremes.webp' alt="basic skincare routine">
-</div>
-
->>>>>>> Stashed changes
+The optimal moisturiser depends on your skin type. The weight should counter balance your skin type. Heavier moisturisers are ideal for dry skin, light (gel-like) moisturisers suit oily skin and something in between the two suits combination skin. Choose a moisturiser with sunscreen of at least SPF 30 to save you the trouble of needing to apply sunscreen separately.  Choose a broadband spectrum sunscreen to ensure that you get the most thorough type of sun protection possible. [Sunscreen is not optional](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/best-sunscreen/art-20045110 "Mayo Clinic - Sunscreen") and is one of the most important parts of a skin care routine.
 
 Apply your moisturiser a minute after your serum to give the serum a chance to absorb. Mixing your moisturiser with your serum is likely to deprive you of some of the benefits of your serum.
 
@@ -110,7 +82,7 @@ Apply your moisturiser a minute after your serum to give the serum a chance to a
 <img class="full-width" src='/images/featured-post/serums-cremes.webp' alt="basic skincare routine">
 </div>
 
-If you have the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need in a serum. It's a less potent solution, but is often a good compromise who want minimal effort. Our favourite is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness.
+If you hate the idea of using too many products, find a multi-function moisturiser that has some of the ingredients you'd need from a serum. It's a less potent solution, but is often a good compromise for those who want minimal effort. Our favourite is [Murad's Anti-Aging Moisturiser ](https://amzn.to/2Xa6C1S "Murad's Anti-Aging Moisturiser") because it moisturises, protects and absorbs quickly. [Guinot's Hydra Finish Creme](https://amzn.to/2O9UzOc "Guinot moisturiser") is fantastic as well because it enhances our complexion and has mallow extract to help calm redness.
 
 <h3> Don't forget your eye cream
 
@@ -128,14 +100,5 @@ Eye creams are not an absolute necessity, but if you have particular concerns su
 Under eye bags and dark circles are the most common concerns. Wrinkles and droopiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment.
 
 Because the skin around the eye area is so delicate, we recommend that you avoid heavy products. You don't want anything pulling on or weighing down the already delicate and thinner tissue.
-=======
-Eye creams are not an asbolute necessity, but if you have particular concerns such as dark circles, crepey skin, eye bags, sagging, etc., eye creams do make a difference. Again, choosing the ingeredients that offer solutions to your concerns is key. 
-
-<div class="imgbox">
-    <img class="full-width" src='/images/featured-post/eye-creme.webp' alt="basic skincare routine">
-</div>
-
-Undereye bags and dark circles are the most common concers. Wrinkles and droppiness are close second and third. The former result for a variety of reasons and it is imperative to outline the exact cause(s) to find your relevant cure(s). The latter is mostly a matter of aging and can be helped with the right treatment. 
->>>>>>> Stashed changes
 
 A good all-around, weightless option is[ Tatcha Luminous Deep Hydration Firming Eye Serum](https://amzn.to/34ZF6Hb "Tatcha Eye cream"). It's key ingredient - Okinawa red algae enhances the skin's barrier function, replenishes natural water reservoir and increases its moisture-retention capabilities. Honeysuckle leaf and caffeine sooth and act as anti-oxidants.  We saw visible firming, reduced puffiness, and plumping.
