@@ -111,15 +111,15 @@ copyright = "MySkinin.com"
 
 
   # social site
-  [[params.social]]
-  icon = "ti-facebook"
-  URL = "www.facebook.com/"
+  #[[params.social]]
+  #icon = "ti-facebook"
+  #URL = "https://www.facebook.com/"
   
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  URL = "www.twitter.com/"
+  #[[params.social]]
+  #icon = "ti-twitter-alt"
+  #URL = "www.twitter.com/"
   
 
   [[params.social]]
   icon = "ti-instagram"
-  URL = "www.instagram.com/myskinin"
+  URL = "https://www.instagram.com/myskinin"
