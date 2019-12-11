@@ -110,7 +110,7 @@ copyright = "MySkinin.com"
     contactInfo = "Mail: myskinin@gmail.com"
 
   # robots
-  enableRobotsTXT =true
+  enableRobotsTXT = true
     
   # social site
   #[[params.social]]
