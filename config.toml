@@ -60,7 +60,7 @@ paginate = 6
   weight = 3
 
 [params]
-logo = "images/logo.png"
+logo = "images/logo.webp"
 home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
