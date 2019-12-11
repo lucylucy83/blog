@@ -65,11 +65,11 @@ home = "Home"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
 # Meta data
-description = "Want to know how to get perfect skin? We know how to get flawless skin. Get skin care advice based on real insight, not Photoshopped images. Read our blog for more details."
+description = "Want to know how to get perfect skin? We know how to get flawless skin. Get skin care advice based on real insight, no Photoshop. Read our blog for more details."
 # about author
 author = "MySkinin"
 authorImage = "scincare-advice-experts"
-shortDescription = "We share decades of skin care obsession with you. No edited before/after photos and make you believe that we recommend miraculous cures. We only share with you logic and reasons for why what we recommend works."
+shortDescription = "We share decades of skin care obsession with you. No edited before/after photos. Only logic and reasoning to help you get better skin."
 # Contact Form Action
 contactFormAction = "#"
 # Google Analitycs
@@ -109,7 +109,11 @@ copyright = "MySkinin.com"
     [[params.footer.contacts]]
     contactInfo = "Mail: myskinin@gmail.com"
 
+  # robots
+  [params.robots]
+  enable = true
 
+    
   # social site
   #[[params.social]]
   #icon = "ti-facebook"
