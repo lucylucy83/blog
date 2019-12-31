@@ -36,7 +36,7 @@ paginate = 6
   [[params.plugins.js]]
   URL = "plugins/reading-time/readingTime.min.js"
   [[params.plugins.js]]
-  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  URL = "plugins/smooth-scroll/smooth-scroll.min.js"
   [[params.plugins.js]]
   URL = "plugins/search/fuse.min.js"
   [[params.plugins.js]]
@@ -108,9 +108,6 @@ copyright = "MySkinin.com"
     
     [[params.footer.contacts]]
     contactInfo = "Mail: myskinin@gmail.com"
-
-  # robots
-  enableRobotsTXT = true
     
   # social site
   #[[params.social]]
